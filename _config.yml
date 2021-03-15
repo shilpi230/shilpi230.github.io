@@ -1,10 +1,12 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev/no-style-please # root address of the site
+title: Shilpi | Software Engineer # name of the site
+author: Shilpi Agrawal # name of site's author
+email: shilpiagrawal516@gmail.com # email of site's author
+url: http://shilpiagarwal.dev # root address of the site
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
-
+  My name is Shilpi. Not a foodie, but a dosa lover ❤️, internet addict, might amuse you with my ninja coding skills.
+  Open source lover and contributor. Ruby ♦️ is love. Currently residing in Mughalsarai, India.
+  I interest people with my thoughts and works on uplifting the society.
+  Want to get involve in conversation with me, lets talk about code and how to make this world a better place to live.
 permalink: /:slug.html
 
 favicon: "./logo.png" # relative path to site's favicon

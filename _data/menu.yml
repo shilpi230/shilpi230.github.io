@@ -2,36 +2,47 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: me
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: Dosa Lover ❤️ | Rubyist | Railist | Freelance Web Developer | Open Source Lover & Contributor |
         url: false
+      - title: Want to get involve in conversation with me, lets talk about code and how to make this world a better place to live.
+        url: false
+      - title: Top Rated Ruby on Rails Developer
+        url: https://www.upwork.com/o/profiles/users/~01f4722b630ef660a8/
+
+  - title: my thoughts
+    url: false
+    entries:
+      - title: Delegate_to in Rails
+        url: https://dev.to/mainstreet/delegateto-in-rails-2fc1
+      - title: Password visibility toggle using stimulus.js and Rails 6
+        url: https://dev.to/mainstreet/password-visibility-toggle-using-stimulus-js-and-rails-6-mb0
+      - title: Send() in ruby to call dynamic methods
+        url: https://dev.to/mainstreet/send-in-ruby-to-call-dynamic-methods-4d30
+      - title: ActiveStorage Resizing and validating the image file
+        url: https://medium.com/@shilpikayal/activestorage-resizing-and-validating-the-image-file-8ff63fe7cba9
+      - title: Setting up multiple database connections in one Rails app
+        url: https://medium.com/@shilpikayal/dual-database-connection-in-rails-76ca42e276a7
+
+  - title: my work
+    url: false
+    entries:
       - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
+        url: https://github.com/shilpi230
 
-  - title: thoughts
-    post_list: true
-    url: false
-    entries: false
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: follow me
     url: false
     entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
-  - title: PRO TIP
-    url: false
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
+      - title: twitter
+        url: https://twitter.com/shilpikayal
+      - title: dev.to
+        url: https://dev.to/shilpi230
+      - title: medium
+        url: https://medium.com/@shilpikayal
+      - title: instagram
+        url: https://www.instagram.com/shilpiagrawal/
+
+  - title: email
+    url: mailto:shilpiagrawal516@gmail.com
